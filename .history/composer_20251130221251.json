@@ -1,0 +1,20 @@
+{
+    "name": "monster/company_chat",
+    "description": "Şirket içi merkez platform - IntraHub",
+    "type": "project",
+    "require": {
+        "php": ">=8.0",
+        "phpmailer/phpmailer": "^6.8",
+        "vlucas/phpdotenv": "^5.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Monster\\CompanyChat\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Altay Akyürek"
+        }
+    ]
+}

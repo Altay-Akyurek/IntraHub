@@ -1,0 +1,206 @@
+[2025-12-12 23:25:28] Raw Input: {"to":"6","content":"sda"}
+[2025-12-12 23:25:28] Sending message from 3 to 6
+[2025-12-12 23:25:34] Raw Input: {"to":"6","content":"sda"}
+[2025-12-12 23:25:34] Sending message from 3 to 6
+[2025-12-12 23:25:39] Raw Input: {"to":"6","content":"adsawsd"}
+[2025-12-12 23:25:39] Sending message from 3 to 6
+[2025-12-12 23:29:15] Raw Input: {"to":"6","content":"sadas"}
+[2025-12-12 23:29:15] Sending message from 3 to 6
+[2025-12-12 23:30:39] Raw Input: {"to":"6","content":"sad"}
+[2025-12-12 23:30:39] Sending message from 3 to 6
+[2025-12-12 23:30:45] Raw Input: {"to":"6","content":"sda"}
+[2025-12-12 23:30:45] Sending message from 3 to 6
+[2025-12-12 23:30:46] Raw Input: {"to":"6","content":"sada"}
+[2025-12-12 23:30:46] Sending message from 3 to 6
+[2025-12-12 23:30:49] Raw Input: {"to":"6","content":"sda"}
+[2025-12-12 23:30:49] Sending message from 3 to 6
+[2025-12-12 23:30:51] Raw Input: {"to":"6","content":"sad"}
+[2025-12-12 23:30:51] Sending message from 3 to 6
+[2025-12-12 23:30:52] Raw Input: {"to":"6","content":"sada"}
+[2025-12-12 23:30:52] Sending message from 3 to 6
+[2025-12-12 23:30:55] Raw Input: {"to":"6","content":"sada"}
+[2025-12-12 23:30:55] Sending message from 3 to 6
+[2025-12-12 23:31:56] Raw Input: {"to":"6","content":"sa"}
+[2025-12-12 23:31:56] Sending message from 3 to 6
+[2025-12-12 23:32:02] Raw Input: {"to":"6","content":"ss"}
+[2025-12-12 23:32:02] Sending message from 3 to 6
+[2025-12-12 23:32:23] Raw Input: {"to":6,"content":"adad"}
+[2025-12-12 23:32:23] Sending message from 3 to 6
+[2025-12-12 23:33:03] Raw Input: {"to":"6","content":"das"}
+[2025-12-12 23:33:03] Sending message from 3 to 6
+[FETCH 2025-12-12 23:33:53] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:33:53] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:33:54] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:33:54] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:33:56] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:33:56] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:33:57] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:33:57] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:33:59] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:33:59] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:34:00] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:34:00] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:34:02] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:34:02] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:34:03] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:34:03] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:34:05] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:34:05] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:34:08] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:34:08] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:34:11] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:34:11] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:34:14] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:34:14] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:34:17] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:34:17] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:34:19] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:34:19] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:34:21] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:34:21] Exception: SQLSTATE[HY093]: Invalid parameter number
+[2025-12-12 23:34:21] Raw Input: {"to":"6","content":"sad"}
+[2025-12-12 23:34:21] Sending message from 3 to 6
+[FETCH 2025-12-12 23:34:21] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:34:21] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:34:21] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:34:21] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:34:24] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:34:24] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:34:24] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:34:24] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:34:27] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:34:27] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:34:27] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:34:27] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:34:30] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:34:30] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:34:30] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:34:30] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:34:33] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:34:33] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:34:33] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:34:33] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:34:36] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:34:36] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:34:36] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:34:36] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:34:39] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:34:39] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:34:39] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:34:39] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:34:42] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:34:42] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:34:42] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:34:42] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:34:45] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:34:45] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:34:45] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:34:45] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:34:48] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:34:48] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:34:48] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:34:48] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:34:51] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:34:51] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:34:51] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:34:51] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:34:54] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:34:54] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:34:54] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:34:54] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:34:57] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:34:57] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:34:57] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:34:57] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:35:00] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:35:00] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:35:00] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:35:00] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:35:03] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:35:03] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:35:03] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:35:03] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:35:06] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:35:06] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:35:06] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:35:06] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:35:09] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:35:09] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:35:09] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:35:09] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:35:12] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:35:12] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:35:12] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:35:12] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:35:15] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:35:15] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:35:15] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:35:15] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:35:18] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:35:18] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:35:18] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:35:18] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:35:21] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:35:21] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:35:21] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:35:21] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:35:24] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:35:24] Exception: SQLSTATE[HY093]: Invalid parameter number
+[2025-12-12 23:35:24] Raw Input: {"to":"6","content":"sad"}
+[2025-12-12 23:35:24] Sending message from 3 to 6
+[FETCH 2025-12-12 23:35:24] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:35:24] Exception: SQLSTATE[HY093]: Invalid parameter number
+[2025-12-12 23:35:26] Raw Input: {"to":"6","content":"sad"}
+[2025-12-12 23:35:26] Sending message from 3 to 6
+[FETCH 2025-12-12 23:35:26] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:35:26] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:35:27] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:35:27] Exception: SQLSTATE[HY093]: Invalid parameter number
+[2025-12-12 23:35:27] Raw Input: {"to":"6","content":"asd"}
+[2025-12-12 23:35:27] Sending message from 3 to 6
+[FETCH 2025-12-12 23:35:27] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:35:27] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:35:28] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:35:28] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:35:30] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:35:30] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:35:32] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:35:32] Exception: SQLSTATE[HY093]: Invalid parameter number
+[2025-12-12 23:35:33] Raw Input: {"to":"6","content":"sdaasd"}
+[2025-12-12 23:35:33] Sending message from 3 to 6
+[FETCH 2025-12-12 23:35:33] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:35:33] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:35:34] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:35:34] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:35:38] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:35:38] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:35:41] Fetch req: Me=3, Other=6
+[FETCH 2025-12-12 23:35:41] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:36:03] Fetch req: Me=6, Other=3
+[FETCH 2025-12-12 23:36:03] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:36:05] Fetch req: Me=6, Other=3
+[FETCH 2025-12-12 23:36:05] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:36:08] Fetch req: Me=6, Other=3
+[FETCH 2025-12-12 23:36:08] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:36:11] Fetch req: Me=6, Other=3
+[FETCH 2025-12-12 23:36:11] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:36:14] Fetch req: Me=6, Other=3
+[FETCH 2025-12-12 23:36:14] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:36:17] Fetch req: Me=6, Other=3
+[FETCH 2025-12-12 23:36:17] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:36:20] Fetch req: Me=6, Other=3
+[FETCH 2025-12-12 23:36:20] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:36:23] Fetch req: Me=6, Other=3
+[FETCH 2025-12-12 23:36:23] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:36:26] Fetch req: Me=6, Other=3
+[FETCH 2025-12-12 23:36:26] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:36:29] Fetch req: Me=6, Other=3
+[FETCH 2025-12-12 23:36:29] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:36:32] Fetch req: Me=6, Other=3
+[FETCH 2025-12-12 23:36:32] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:36:35] Fetch req: Me=6, Other=3
+[FETCH 2025-12-12 23:36:35] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:36:38] Fetch req: Me=6, Other=3
+[FETCH 2025-12-12 23:36:38] Exception: SQLSTATE[HY093]: Invalid parameter number
+[FETCH 2025-12-12 23:36:41] Fetch req: Me=6, Other=3
+[FETCH 2025-12-12 23:36:41] Exception: SQLSTATE[HY093]: Invalid parameter number
